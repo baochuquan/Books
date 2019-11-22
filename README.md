@@ -212,10 +212,25 @@
 	- 《iOS编程（第四版）》
 	- 《编写高质量iOS与OSX代码的52个有效方法》
 
+# 在线书籍
+- [RxSwift][1]
+- [iOS Core Animation: Advanced Techniques中文译][2]
+- [RxSwift: RectiveX for Swift][3]
+- [鸟哥的Linux私房菜：服务器架设篇（第三版）][4]
+- [鸟哥的Linux私房菜：基础学习篇（第四版）][5]
+- [笔试面试知识整理][6]
+- [精通比特币（第二版）][7]
+- [Redux中文文档][8]
+- [区块链技术指南][9]
+- [高级Bash脚本编程指南中文版][10]
 
-## 区块链
-1. [区块链技术指南][1]
-2. [Blockchain区块链-中文资源阅读列表][2]
-
-[1]:	https://yeasy.gitbooks.io/blockchain_guide/content/born/
-[2]:	https://github.com/LiuBoyu/blockchain
+[1]:	http://rxswift.tbd.ink/
+[2]:	https://zsisme.gitbooks.io/ios-/content/index.html
+[3]:	https://beeth0ven.github.io/RxSwift-Chinese-Documentation/
+[4]:	https://wizardforcel.gitbooks.io/vbird-linux-server-3e/content/
+[5]:	https://wizardforcel.gitbooks.io/vbird-linux-basic-4e/content/
+[6]:	https://hit-alibaba.github.io/interview/
+[7]:	https://wizardforcel.gitbooks.io/masterbitcoin2cn/content/
+[8]:	https://www.redux.org.cn/
+[9]:	https://yeasy.gitbooks.io/blockchain_guide/content/
+[10]:	https://linuxstory.gitbook.io/advanced-bash-scripting-guide-in-chinese/
