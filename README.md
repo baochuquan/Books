@@ -224,6 +224,7 @@
 - [Redux中文文档][8]
 - [区块链技术指南][9]
 - [高级Bash脚本编程指南中文版][10]
+- [Flutter 实战][11]
 
 [1]:	http://rxswift.tbd.ink/
 [2]:	https://zsisme.gitbooks.io/ios-/content/index.html
@@ -235,3 +236,4 @@
 [8]:	https://www.redux.org.cn/
 [9]:	https://yeasy.gitbooks.io/blockchain_guide/content/
 [10]:	https://linuxstory.gitbook.io/advanced-bash-scripting-guide-in-chinese/
+[11]: https://book.flutterchina.club/
