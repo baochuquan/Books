@@ -228,6 +228,7 @@
 - [高级Bash脚本编程指南中文版][10]
 - [Flutter 实战][11]
 - [LeetCode 题解][12]
+- [开源软件架构][13]
 
 [1]:	http://rxswift.tbd.ink/
 [2]:	https://zsisme.gitbooks.io/ios-/content/index.html
@@ -241,3 +242,4 @@
 [10]:	https://linuxstory.gitbook.io/advanced-bash-scripting-guide-in-chinese/
 [11]: https://book.flutterchina.club/
 [12]: https://leetcode.wang
+[13]: https://www.kancloud.cn/kancloud/open-source-architecture/content
