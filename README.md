@@ -229,6 +229,7 @@
 - [Flutter 实战][11]
 - [LeetCode 题解][12]
 - [开源软件架构][13]
+- [Scheme 入门教程][14]
 
 [1]:	http://rxswift.tbd.ink/
 [2]:	https://zsisme.gitbooks.io/ios-/content/index.html
@@ -243,3 +244,4 @@
 [11]: https://book.flutterchina.club/
 [12]: https://leetcode.wang
 [13]: https://www.kancloud.cn/kancloud/open-source-architecture/content
+[14]: https://deathking.github.io/yast-cn/
