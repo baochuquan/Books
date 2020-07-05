@@ -42,6 +42,7 @@
 	- 《怎样选择成长股》
 	- 《聪明的投资者（第四版）》
 - **Flutter**
+  - 《AliFlutter体系化建设和实践》
   - 《Flutter技术解析与实战——闲鱼技术演进与创新》
 - **FrontEnd**
 	- 《CSS世界》
@@ -149,6 +150,7 @@
 		- 《Ruby元编程》
 	- **Scala**
 		- 《Scala编程》
+    - 《Scala函数式编程》
 	- **Swift**
 		- 《Swifter：Swift开发者必备Tips（第四版）》
 		- 《Swift编程语言》
