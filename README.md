@@ -89,7 +89,6 @@
 	- 《C语言编程透视》
 	- 《ELF Format》
 	- 《Linux与UNIX设计思想》
-	- 《Linux Shell脚本攻略（第二版）》
 	- 《Linux内核完全剖析》
 	- 《Linux内核设计与实现（第三版本）》
 	- 《Linux内核设计的艺术》
@@ -151,6 +150,9 @@
 	- **Scala**
 		- 《Scala编程》
     - 《Scala函数式编程》
+	- **Shell**
+   - 《Linux Shell脚本攻略（第二版）》
+   - 《Linux命令行与shell脚本编程大全（第3版）》
 	- **Swift**
 		- 《Swifter：Swift开发者必备Tips（第四版）》
 		- 《Swift编程语言》
